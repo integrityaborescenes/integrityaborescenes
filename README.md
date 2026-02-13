@@ -25,3 +25,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
 </div>
+
+![snake gif](https://github.com/integrityaborescenes/integrityaborescenes/blob/output/github-snake-dark.svg)
